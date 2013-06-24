@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\mrd_ntwk\scripts\MrdPrt.cs">
+    <Files>
+      <File FileName="Assets\mrd_ntwk\scripts\MrdPrt.cs" Line="92" Column="4" />
+      <File FileName="Assets\mrd_ntwk\scripts\ExButtons.cs" Line="368" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
